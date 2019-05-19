@@ -15,6 +15,7 @@ img {
 }
 
 nav a {
-  padding: 0px, 10px, 0px, 10px;
-  background-color: ededed;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
 }
