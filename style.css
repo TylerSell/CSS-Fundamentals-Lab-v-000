@@ -16,6 +16,7 @@ img {
 
 nav a {
   float: none;
+  position: absolute;
   
   padding-left: 10px;
   padding-right: 10px;
