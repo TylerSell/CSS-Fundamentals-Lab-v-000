@@ -24,3 +24,8 @@ nav a {
   background-color: grey;
   display: inline-block;
 }
+
+figcaption {
+  text-align: center;
+  
+}
